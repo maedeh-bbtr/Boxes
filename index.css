@@ -77,7 +77,7 @@ div > div:last-child {
     transform: scale(2) skewY(45deg) translate(30px,-30px);
 }
 .thirteen:hover{
-    transform: perspective(900px) scale(1,1,8) rotateX(30deg) ;
+    transform: perspective(900px) scale3d(1,1,8) rotateX(30deg) ;
 }
 .fourteen:hover{
     transform: perspective(900px) scale3d(1,1,8) rotateY(30deg) ;
